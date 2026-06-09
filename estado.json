@@ -1,9 +1,27 @@
 {
   "emitido": "2026-06-09",
   "grupos": {
-    "Grupo-1": { "activo": false, "templates": [] },
-    "Grupo-2": { "activo": false, "templates": [] },
-    "Turno-M": { "activo": false, "templates": [] },
-    "Turno-T": { "activo": false, "templates": [] }
+    "Grupo-1": {
+      "activo": false,
+      "templates": []
+    },
+    "Grupo-2": {
+      "activo": false,
+      "templates": []
+    },
+    "Turno-M": {
+      "activo": false,
+      "templates": []
+    },
+    "Turno-T": {
+      "activo": false,
+      "templates": []
+    },
+    "Prueba-1": {
+      "activo": false,
+      "templates": [
+        "juiceshop"
+      ]
+    }
   }
 }
