@@ -12,7 +12,8 @@
     "Prueba-1": {
       "activo": true,
       "templates": [
-        "juiceshop"
+        "juiceshop",
+        "ssh-client"
       ]
     },
     "Turno-M": {
