@@ -9,19 +9,19 @@
       "activo": false,
       "templates": []
     },
-    "Turno-M": {
-      "activo": false,
-      "templates": []
-    },
-    "Turno-T": {
-      "activo": false,
-      "templates": []
-    },
     "Prueba-1": {
       "activo": false,
       "templates": [
         "juiceshop"
       ]
+    },
+    "Turno-M": {
+      "activo": false,
+      "templates": []
+    },
+    "Turno-T": {
+      "activo": true,
+      "templates": []
     }
   }
 }
