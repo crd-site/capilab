@@ -10,7 +10,7 @@
       "templates": []
     },
     "Prueba-1": {
-      "activo": false,
+      "activo": true,
       "templates": [
         "juiceshop"
       ]
@@ -20,7 +20,7 @@
       "templates": []
     },
     "Turno-T": {
-      "activo": true,
+      "activo": false,
       "templates": []
     }
   }
